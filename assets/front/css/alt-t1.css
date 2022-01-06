@@ -1,0 +1,32 @@
+body.login {background: #242424;}
+
+body.login div#login form#loginform {background-color: #000000;}
+body.login div#login form#loginform p {color: #ffffff;}
+body.login div#login form#loginform label {color: #ffffff;}
+body.login div#login form#loginform p label {color: #ffffff;}
+body.login div#login form#loginform input#user_login {border: none;border-radius: 0px;background: #e7e7e74f;color: #ffffff;}
+body.login div#login form#loginform input#user_login:focus {border: none;outline: 0px;box-shadow: none;color: #ffffff;}
+body.login div#login form#loginform input#user_pass {border: none;border-radius: 0px;background: #e7e7e74f;color: #ffffff;}
+body.login div#login form#loginform input#user_pass:focus {border: none;outline: 0px;box-shadow: none;color: #ffffff;}
+body.login div#login form#loginform p.forgetmenot input#rememberme {}
+body.login div#login form#loginform p.submit input#wp-submit {background: #ffffff;border: none;border-radius: 25px;padding-left: 20px;padding-right: 20px;color: #000000;}
+body.login div#login form#loginform p.submit input#wp-submit:focus {border: none;outline: 0px;box-shadow: none;}
+
+body.login div#login form#lostpasswordform {background-color: #000000;}
+body.login div#login form#lostpasswordform p {color: #ffffff;}
+body.login div#login form#lostpasswordform label {color: #ffffff;}
+body.login div#login form#lostpasswordform p label {color: #ffffff;}
+body.login div#login form#lostpasswordform input#user_login {border: none;border-radius: 0px;background: #e7e7e74f;color: #ffffff;}
+body.login div#login form#lostpasswordform input#user_login:focus {border: none;outline: 0px;box-shadow: none;color: #ffffff;}
+body.login div#login form#lostpasswordform p.submit input#wp-submit {background: #ffffff;border: none;border-radius: 25px;padding-left: 20px;padding-right: 20px;color: #000000;}
+body.login div#login form#lostpasswordform p.submit input#wp-submit:focus {border: none;outline: 0px;box-shadow: none;}
+
+
+body.login div#login p#nav {text-align: center;}
+body.login div#login p.message {background: #484848;color: #ffffff;border-left-color: #ffffff;}
+body.login div#login p#nav a {color: #ffffff;}
+body.login div#login p#backtoblog {text-align: center;}
+body.login div#login p#backtoblog a {color: #998877;}
+body.login div#login .button.wp-hide-pw{color: #ffffff;}
+body.login div#login .button.wp-hide-pw:hover{background: #ffffff;color: #000000;}
+body.login div#login #login_error{background: #484848;color: #ffffff;border-left-color: #ffffff;}
